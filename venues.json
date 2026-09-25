@@ -1,0 +1,797 @@
+[
+ {
+  "name": "BetaList",
+  "url": "https://betalist.com/",
+  "fit_categories": [
+   "directory",
+   "launch"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": "paid",
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "BetaPage",
+  "url": "https://betapage.co",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "CoFoundersLab",
+  "url": "https://cofounderslab.com/",
+  "fit_categories": [
+   "network",
+   "startups"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Demand Curve",
+  "url": "https://www.demandcurve.com/community",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "Dev Hunt",
+  "url": "https://devhunt.org",
+  "fit_categories": [
+   "launch-feed",
+   "dev-tool"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "EverFeatured",
+  "url": "https://everfeatured.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Fazier",
+  "url": "https://fazier.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free_with_backlink",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Foundigy",
+  "url": "https://foundigy.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Futurepedia",
+  "url": "https://futurepedia.io",
+  "fit_categories": [
+   "ai-directory"
+  ],
+  "audience": null,
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "FutureTools",
+  "url": "https://futuretools.io",
+  "fit_categories": [
+   "ai-directory"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "GetApp",
+  "url": "https://getapp.com",
+  "fit_categories": [
+   "review-site"
+  ],
+  "audience": null,
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "GrowthHackers Community",
+  "url": "https://growthhackers.com/",
+  "fit_categories": [
+   "growth",
+   "marketing"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Hacker News (Show HN)",
+  "url": "https://news.ycombinator.com/",
+  "fit_categories": [
+   "saas",
+   "developer",
+   "launch",
+   "general"
+  ],
+  "audience": "Hacker News readers; engineers, technical founders, infra-curious people",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "hackernews"
+ },
+ {
+  "name": "Indie Hackers Forum",
+  "url": "https://www.indiehackers.com/",
+  "fit_categories": [
+   "saas",
+   "indie",
+   "makers",
+   "launch"
+  ],
+  "audience": "IndieHackers; bootstrapped solo founders sharing revenue and behind-the-scenes",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "indiehackers"
+ },
+ {
+  "name": "Invincible Product Hunters (Global)",
+  "url": "https://t.me/producthuntglobal",
+  "fit_categories": [
+   "product-hunt",
+   "upvotes"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "telegram"
+ },
+ {
+  "name": "Launch.cab",
+  "url": "https://launch.cab",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Launching Next",
+  "url": "https://www.launchingnext.com/",
+  "fit_categories": [
+   "directory",
+   "launch"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "LaunchPedia",
+  "url": "https://launchpedia.co/",
+  "fit_categories": [
+   "directory",
+   "launch"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "MicroLaunch",
+  "url": "https://microlaunch.net/",
+  "fit_categories": [
+   "directory",
+   "launch"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "No Code Founders",
+  "url": "https://nocodefounders.com/",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "OnlineGeniuses",
+  "url": "https://onlinegeniuses.com/",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "Peerlist",
+  "url": "https://peerlist.io/",
+  "fit_categories": [
+   "directory",
+   "launch"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "PeerPush",
+  "url": "https://peerpush.net",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "PH Launch Sharing (Ayan)",
+  "url": "https://discord.gg/3xCmNYy4v9",
+  "fit_categories": [
+   "makers",
+   "indie"
+  ],
+  "audience": "Discord server; chat-room casual, often dev or maker-leaning",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "discord"
+ },
+ {
+  "name": "Product Hunt",
+  "url": "https://producthunt.com",
+  "fit_categories": [
+   "ai-directory",
+   "review-site",
+   "launch-feed",
+   "vibe-coder"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "web"
+ },
+ {
+  "name": "Product Hunt Community",
+  "url": "https://x.com/i/communities/1511695156881158148",
+  "fit_categories": [
+   "product-hunt",
+   "x"
+  ],
+  "audience": "X/Twitter; founders, marketers, makers in public",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "twitter"
+ },
+ {
+  "name": "Product Hunt Group on IH",
+  "url": "https://www.indiehackers.com/group/product-hunt",
+  "fit_categories": [
+   "product-hunt",
+   "makers"
+  ],
+  "audience": "IndieHackers; bootstrapped solo founders sharing revenue and behind-the-scenes",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "indiehackers"
+ },
+ {
+  "name": "Product Hunt Heroes",
+  "url": "https://t.me/producthunt_heroes",
+  "fit_categories": [
+   "product-hunt",
+   "upvotes"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "telegram"
+ },
+ {
+  "name": "Product Hunt Russia",
+  "url": "https://t.me/ProductHuntRussia",
+  "fit_categories": [
+   "makers",
+   "ph"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "telegram"
+ },
+ {
+  "name": "Product Hunters",
+  "url": "https://t.me/producthunters",
+  "fit_categories": [
+   "product-hunt",
+   "upvotes"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "telegram"
+ },
+ {
+  "name": "Product Makers",
+  "url": "https://ayberkbozkus.wixsite.com/productmakers",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "ProductLed",
+  "url": "https://productled.com/community/",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "Recall Community",
+  "url": "https://discord.gg/BSYrT3UeGR",
+  "fit_categories": [
+   "makers",
+   "indie"
+  ],
+  "audience": "Discord server; chat-room casual, often dev or maker-leaning",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "discord"
+ },
+ {
+  "name": "SaaS Founders Club",
+  "url": "https://saasfoundersclub.org/",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "SaaSHub",
+  "url": "https://www.saashub.com/",
+  "fit_categories": [
+   "directory",
+   "saas"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "SideProjectors",
+  "url": "https://sideprojectors.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Slashdot",
+  "url": "https://slashdot.org",
+  "fit_categories": [
+   "review-site"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Smol Launch",
+  "url": "https://smollaunch.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Solo Founders",
+  "url": "https://t.me/solofounders",
+  "fit_categories": [
+   "makers",
+   "ph"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "telegram"
+ },
+ {
+  "name": "Startup Consulting",
+  "url": "https://t.me/startupconsulting",
+  "fit_categories": [
+   "makers",
+   "ph"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "telegram"
+ },
+ {
+  "name": "Startup Fame",
+  "url": "https://startupfa.me",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free_with_badge",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Startup Grind",
+  "url": "https://www.startupgrind.com/",
+  "fit_categories": [
+   "network",
+   "startups"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": null,
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Startup Hunt",
+  "url": "https://t.me/startuphunt",
+  "fit_categories": [
+   "makers",
+   "ph"
+  ],
+  "audience": "Telegram channel readers; URL-first, attention-light",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "product_hunt",
+  "platform": "telegram"
+ },
+ {
+  "name": "Startup Stash",
+  "url": "https://startupstash.com/",
+  "fit_categories": [
+   "directory",
+   "saas"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "StartupBase",
+  "url": "https://startupbase.io",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Superpath",
+  "url": "https://superpath.co/community/",
+  "fit_categories": [
+   "saas",
+   "founders"
+  ],
+  "audience": "Slack community; tight-knit, pseudo-private peer group",
+  "cost": null,
+  "self_promotion": "limited",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "slack"
+ },
+ {
+  "name": "The Next AI",
+  "url": "https://thenextai.com",
+  "fit_categories": [
+   "ai-directory"
+  ],
+  "audience": null,
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "TheAISurf",
+  "url": "https://theaisurf.com",
+  "fit_categories": [
+   "ai-directory"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "There's An AI For That",
+  "url": "https://theresanaiforthat.com",
+  "fit_categories": [
+   "ai-directory"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "TheSaaSDir",
+  "url": "https://thesaasdir.com",
+  "fit_categories": [
+   "ai-directory"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Tiny Launch",
+  "url": "https://tinylaunch.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Turbo0",
+  "url": "https://turbo0.com",
+  "fit_categories": [
+   "launch-feed"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": true,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Uneed.best",
+  "url": "https://uneed.best/",
+  "fit_categories": [
+   "directory",
+   "launch"
+  ],
+  "audience": "Directory listing surface; cold readers scanning categories",
+  "cost": "freemium",
+  "self_promotion": "yes",
+  "dofollow": null,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ },
+ {
+  "name": "Vibe Coding Tools",
+  "url": "https://vibecoding.app/tools",
+  "fit_categories": [
+   "vibe-coder"
+  ],
+  "audience": null,
+  "cost": "free",
+  "self_promotion": "yes",
+  "dofollow": false,
+  "last_verified": "2026-08-06",
+  "purpose": "general",
+  "platform": "web"
+ }
+]
