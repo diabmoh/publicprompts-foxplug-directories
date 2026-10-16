@@ -9,7 +9,7 @@ A cell that says "not checked" means that fact has not been verified yet. It is 
 ## Contents
 
 - [Launch platforms](#launch-platforms) (20)
-- [AI tool directories](#ai-tool-directories) (7)
+- [AI tool directories](#ai-tool-directories) (8)
 - [Software review sites](#software-review-sites) (2)
 - [Startup directories](#startup-directories) (2)
 - [Founder networks](#founder-networks) (3)
@@ -51,6 +51,7 @@ Directories that list AI products by category.
 | --- | --- | --- | --- | --- | --- |
 | [Futurepedia](https://futurepedia.io) | not checked | Free, paid options | Yes | no | 2026-08-06 |
 | [FutureTools](https://futuretools.io) | not checked | Free | Yes | no | 2026-08-06 |
+| [Public Prompts](https://www.publicprompts.art/) | AI tool discovery by category | Paid: US$19.99 once plus applicable tax | Yes, subject to editorial review | no | 2026-10-16 |
 | [The Next AI](https://thenextai.com) | not checked | Free, paid options | Yes | yes | 2026-08-06 |
 | [TheAISurf](https://theaisurf.com) | not checked | Free | Yes | no | 2026-08-06 |
 | [There's An AI For That](https://theresanaiforthat.com) | not checked | Free | Yes | no | 2026-08-06 |
